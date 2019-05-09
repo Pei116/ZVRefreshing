@@ -37,7 +37,7 @@ platform :ios, '8.0'
 
 target 'TargetName' do
     use_frameworks!
-    pod 'ZVRefreshing' ~> '2.0.0'
+    pod 'ZVRefreshing', '~> 2.0.0'
 end
 ```
 
